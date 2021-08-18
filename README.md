@@ -1,3 +1,3 @@
 # blanchard-email
 
-![alt text](http://paln1x.ru/blanchard-email/Letter.png)
+![alt text](https://alkef.tw1.ru/email/letter.png)

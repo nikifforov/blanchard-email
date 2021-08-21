@@ -1,3 +1,3 @@
 # blanchard-email
 
-![alt text](http://alexniki.tw1.ru/high-pass.png)
+![alt text](http://alkef.tw1.ru/email/letter.png)
